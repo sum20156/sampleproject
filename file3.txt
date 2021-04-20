@@ -1,0 +1,1 @@
+File3 created in feature1 branch after file2 commited in local master branch
